@@ -65,11 +65,4 @@ No Supabase service-role key is required. API routes use the signed-in user's se
 
 Live Google sign-in, your actual Supabase constraints/policies, and paid Gemini calls still require checking with your credentials after setup. Previous-week feedback was not supplied, so that rubric category is not claimed as complete.
 
-## Official references
-
-- [Next.js route handlers](https://nextjs.org/docs/app/api-reference/file-conventions/route)
-- [Supabase redirect URLs](https://supabase.com/docs/guides/auth/redirect-urls)
-- [Gemini text generation](https://ai.google.dev/gemini-api/docs/text-generation)
-- [Gemini image generation](https://ai.google.dev/gemini-api/docs/image-generation)
-- [Vercel deployment protection](https://vercel.com/docs/deployment-protection)
-- [Vercel generated deployment URLs](https://vercel.com/docs/deployments/generated-urls)
+Chain Studio is the Week 8 prompt-chain tool for Campus Chaos.
